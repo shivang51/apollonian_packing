@@ -1,0 +1,6 @@
+-xc++
+
+-Iapollonian_packing/include
+
+-Iexternal/raylib/include
+-Iexternal/raylib/src
