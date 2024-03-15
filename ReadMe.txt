@@ -1,1 +1,1 @@
-[Sample Image](./screen_shots/sample.jpeg)!
+![Sample Image](./screen_shots/sample.jpeg)
